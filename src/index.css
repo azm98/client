@@ -1,0 +1,67 @@
+.appbar {
+  z-index: 1400 !important;
+  background-color: white !important;
+  border-bottom: 2px solid whitesmoke;
+}
+.topbar_toolbar {
+  justify-content: space-between;
+}
+.brandName {
+  font-family: Bebas Neue !important;
+  font-weight: 500 !important;
+  text-transform: capitalize !important;
+  text-decoration: none !important;
+}
+.brandFont {
+  font-family: Bebas Neue !important;
+  font-weight: 500 !important;
+  text-decoration: none !important;
+}
+.shoeCard {
+  margin-top: 30px !important;
+}
+.shoeCardMedia {
+  height: 300px;
+}
+.shoeCardActions {
+  justify-content: space-between !important;
+}
+.cartContainer {
+  margin-top: 50px !important;
+}
+.cartCard {
+  display: flex;
+}
+.cartCardContent {
+  flex: 1 !important;
+}
+.cartCardMedia {
+  flex: 1;
+  height: 150px;
+}
+.cartSummaryDivider {
+  border-left: 1px solid lightgrey;
+}
+.checkoutButton {
+  border: 1px solid black !important;
+}
+svg {
+  color: black !important;
+}
+.sidebar {
+  box-shadow: none !important;
+}
+.menuList {
+  width: 290px;
+}
+.MenuText span {
+  font-family: Bebas Neue !important;
+  font-size: 18px;
+  font-weight: 500 !important;
+  color: black !important;
+  text-decoration: none !important;
+}
+a {
+  text-decoration: none !important;
+  color: black;
+}
